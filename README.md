@@ -94,3 +94,5 @@ This E-commerce Application enables:
     "quantity": "5",
     "price": "20"
   }
+<img width="613" alt="{8C5CB07D-CC39-4532-B4AA-31A45633E9DD}" src="https://github.com/user-attachments/assets/4024bd0b-b3b9-484f-be18-4110fd5ef408" />
+
