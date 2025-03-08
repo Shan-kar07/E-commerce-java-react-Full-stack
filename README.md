@@ -1,5 +1,4 @@
 # E-commerce-java-react-Full-stack
-# E-Commerce Application
 
 This project is an E-Commerce application built with a Spring Boot backend using a microservices architecture and a React frontend. The backend is composed of four distinct services:
 - **Order Service**
